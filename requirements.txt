@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+psycopg2-binary
+ipython-sql
+pymongo
+neo4j
+openai
+jupyter
+ipykernel
